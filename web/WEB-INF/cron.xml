@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    <cron>
+        <url>/push-task</url>
+        <target>1</target>
+        <description>1 min job</description>
+        <schedule>every 180 minutes</schedule>
+    </cron>
+    <cron>
+        <url>/pull-task</url>
+        <target>2</target>
+        <description>1 min job</description>
+        <schedule>every 180 minutes</schedule>
+    </cron>
+    <cron>
+        <url>/pull-task</url>
+        <target>2</target>
+        <description>1 min job</description>
+        <schedule>every 180 minutes</schedule>
+    </cron>
+</cronentries>
